@@ -1,0 +1,1 @@
+# Sektor-Bazli-Hisse-Senedi-Siniflandirma
