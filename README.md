@@ -51,3 +51,9 @@ Bu proje, **web scraping** ve **yfinance** entegrasyonu ile farklı sektörlerde
 - **Hiperparametre optimizasyonu** sayesinde modellerin doğruluk oranı artırıldı.  
 - En iyi performans gösteren model, yeni veriler üzerinde **sektör tahmininde** başarıyla kullanıldı.  
 - Çıktılar, **yatırım araştırmaları** ve **sektör analizlerinde** destekleyici bir araç olarak değerlendirilebilir.  
+## 📌 Proje Hakkında
+
+Bu proje, galaksi120 hesabı tarafından geliştirilmiş ve ilk olarak **2 Ekim 2025** tarihinde GitHub üzerinde paylaşılmıştır.
+
+Projede yer alan kodlar ve içerikler, yazılım becerilerimi göstermek amacıyla paylaşılmıştır.  
+İnceleme ve değerlendirme amaçlı kullanılabilir, ancak içeriklerin izinsiz şekilde çoğaltılması, ödev olarak sunulması veya ticari kullanımı uygun değildir.
